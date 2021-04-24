@@ -1,0 +1,64 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Logic.EmployeeService">
+    <Position X="3.5" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAACAAAAAABAAAiEAEAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>EmployeeService.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="employeeDAO" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="Logic.MenuItemService">
+    <Position X="11.5" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAkAAAQAAAAAAAAEAAAAAAAACAAAAAAABAAAAAAA=</HashCode>
+      <FileName>MenuItemService.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="menuItemDAO" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="Logic.OrderService">
+    <Position X="6.25" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAIAAAAIAAAQAAAAQAAAIAACAgAAAAAAAAABAAAAAg=</HashCode>
+      <FileName>OrderService.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="orderDAO" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="Logic.TableService">
+    <Position X="9" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAAAAAAAACAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAA=</HashCode>
+      <FileName>TableService.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="tableDAO" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="DAL.OrderDAO">
+    <Position X="6.25" Y="5.5" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="DAL.TableDAO">
+    <Position X="9" Y="5.5" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="DAL.MenuItemDAO">
+    <Position X="12" Y="5.5" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="DAL.EmployeeDAO">
+    <Position X="3.5" Y="5" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="DAL.Base">
+    <Position X="7.25" Y="8.5" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

@@ -1,0 +1,319 @@
+D:\nerdy data\TERM 4\CHAPEAU GROUP 7\ChapeauUI\ChapeauUI\bin\Debug\ChapeauUI.exe.config
+D:\nerdy data\TERM 4\CHAPEAU GROUP 7\ChapeauUI\ChapeauUI\bin\Debug\ChapeauUI.exe
+D:\nerdy data\TERM 4\CHAPEAU GROUP 7\ChapeauUI\ChapeauUI\bin\Debug\ChapeauUI.pdb
+D:\nerdy data\TERM 4\CHAPEAU GROUP 7\ChapeauUI\ChapeauUI\obj\Debug\ChapeauUI.csprojAssemblyReference.cache
+D:\nerdy data\TERM 4\CHAPEAU GROUP 7\ChapeauUI\ChapeauUI\obj\Debug\ChapeauUI.BaseForm.resources
+D:\nerdy data\TERM 4\CHAPEAU GROUP 7\ChapeauUI\ChapeauUI\obj\Debug\ChapeauUI.Properties.Resources.resources
+D:\nerdy data\TERM 4\CHAPEAU GROUP 7\ChapeauUI\ChapeauUI\obj\Debug\ChapeauUI.csproj.GenerateResource.cache
+D:\nerdy data\TERM 4\CHAPEAU GROUP 7\ChapeauUI\ChapeauUI\obj\Debug\ChapeauUI.csproj.CoreCompileInputs.cache
+D:\nerdy data\TERM 4\CHAPEAU GROUP 7\ChapeauUI\ChapeauUI\obj\Debug\ChapeauUI.exe
+D:\nerdy data\TERM 4\CHAPEAU GROUP 7\ChapeauUI\ChapeauUI\obj\Debug\ChapeauUI.pdb
+D:\nerdy data\TERM 4\CHAPEAU GROUP 7\ChapeauUI\ChapeauUI\bin\Debug\Logic.dll
+D:\nerdy data\TERM 4\CHAPEAU GROUP 7\ChapeauUI\ChapeauUI\bin\Debug\MODEL.dll
+D:\nerdy data\TERM 4\CHAPEAU GROUP 7\ChapeauUI\ChapeauUI\bin\Debug\DAL.dll
+D:\nerdy data\TERM 4\CHAPEAU GROUP 7\ChapeauUI\ChapeauUI\bin\Debug\Logic.pdb
+D:\nerdy data\TERM 4\CHAPEAU GROUP 7\ChapeauUI\ChapeauUI\bin\Debug\MODEL.pdb
+D:\nerdy data\TERM 4\CHAPEAU GROUP 7\ChapeauUI\ChapeauUI\bin\Debug\DAL.pdb
+D:\nerdy data\TERM 4\CHAPEAU GROUP 7\ChapeauUI\ChapeauUI\obj\Debug\ChapeauUI.Employees.resources
+D:\nerdy data\TERM 4\CHAPEAU GROUP 7\ChapeauUI\ChapeauUI\obj\Debug\ChapeauUI.csproj.CopyComplete
+D:\nerdy data\TERM 4\CHAPEAU GROUP 7\ChapeauUI\ChapeauUI\obj\Debug\ChapeauUI.DialogBox.resources
+D:\nerdy data\TERM 4\CHAPEAU GROUP 7\ChapeauUI\ChapeauUI\obj\Debug\ChapeauUI.ActionForm.resources
+D:\nerdy data\TERM 4\CHAPEAU GROUP 7\ChapeauUI\ChapeauUI\obj\Debug\ChapeauUI.ChapeauHomePage.resources
+D:\nerdy data\TERM 4\CHAPEAU GROUP 7\ChapeauUI\ChapeauUI\obj\Debug\ChapeauUI.OrderStatus.resources
+D:\nerdy data\TERM 4\CHAPEAU GROUP 7\ChapeauUI\ChapeauUI\obj\Debug\ChapeauUI.Reservations.resources
+D:\nerdy data\TERM 4\CHAPEAU GROUP 7\ChapeauUI\ChapeauUI\obj\Debug\ChapeauUI.TakeOrder.resources
+C:\Users\Sensei98\Documents\InHolland\1920_1.4\DESIGN PATTERNS\ChapeauProject\ChapeauUI\ChapeauUI\ChapeauUI\bin\Debug\ChapeauUI.exe.config
+C:\Users\Sensei98\Documents\InHolland\1920_1.4\DESIGN PATTERNS\ChapeauProject\ChapeauUI\ChapeauUI\ChapeauUI\bin\Debug\ChapeauUI.exe
+C:\Users\Sensei98\Documents\InHolland\1920_1.4\DESIGN PATTERNS\ChapeauProject\ChapeauUI\ChapeauUI\ChapeauUI\bin\Debug\ChapeauUI.pdb
+C:\Users\Sensei98\Documents\InHolland\1920_1.4\DESIGN PATTERNS\ChapeauProject\ChapeauUI\ChapeauUI\ChapeauUI\bin\Debug\Logic.dll
+C:\Users\Sensei98\Documents\InHolland\1920_1.4\DESIGN PATTERNS\ChapeauProject\ChapeauUI\ChapeauUI\ChapeauUI\bin\Debug\MODEL.dll
+C:\Users\Sensei98\Documents\InHolland\1920_1.4\DESIGN PATTERNS\ChapeauProject\ChapeauUI\ChapeauUI\ChapeauUI\bin\Debug\DAL.dll
+C:\Users\Sensei98\Documents\InHolland\1920_1.4\DESIGN PATTERNS\ChapeauProject\ChapeauUI\ChapeauUI\ChapeauUI\bin\Debug\Logic.pdb
+C:\Users\Sensei98\Documents\InHolland\1920_1.4\DESIGN PATTERNS\ChapeauProject\ChapeauUI\ChapeauUI\ChapeauUI\bin\Debug\MODEL.pdb
+C:\Users\Sensei98\Documents\InHolland\1920_1.4\DESIGN PATTERNS\ChapeauProject\ChapeauUI\ChapeauUI\ChapeauUI\bin\Debug\DAL.pdb
+C:\Users\Sensei98\Documents\InHolland\1920_1.4\DESIGN PATTERNS\ChapeauProject\ChapeauUI\ChapeauUI\ChapeauUI\obj\Debug\ChapeauUI.csprojAssemblyReference.cache
+C:\Users\Sensei98\Documents\InHolland\1920_1.4\DESIGN PATTERNS\ChapeauProject\ChapeauUI\ChapeauUI\ChapeauUI\obj\Debug\ChapeauUI.ActionForm.resources
+C:\Users\Sensei98\Documents\InHolland\1920_1.4\DESIGN PATTERNS\ChapeauProject\ChapeauUI\ChapeauUI\ChapeauUI\obj\Debug\ChapeauUI.BaseForm.resources
+C:\Users\Sensei98\Documents\InHolland\1920_1.4\DESIGN PATTERNS\ChapeauProject\ChapeauUI\ChapeauUI\ChapeauUI\obj\Debug\ChapeauUI.DialogBox.resources
+C:\Users\Sensei98\Documents\InHolland\1920_1.4\DESIGN PATTERNS\ChapeauProject\ChapeauUI\ChapeauUI\ChapeauUI\obj\Debug\ChapeauUI.Employees.resources
+C:\Users\Sensei98\Documents\InHolland\1920_1.4\DESIGN PATTERNS\ChapeauProject\ChapeauUI\ChapeauUI\ChapeauUI\obj\Debug\ChapeauUI.ChapeauHomePage.resources
+C:\Users\Sensei98\Documents\InHolland\1920_1.4\DESIGN PATTERNS\ChapeauProject\ChapeauUI\ChapeauUI\ChapeauUI\obj\Debug\ChapeauUI.OrderStatus.resources
+C:\Users\Sensei98\Documents\InHolland\1920_1.4\DESIGN PATTERNS\ChapeauProject\ChapeauUI\ChapeauUI\ChapeauUI\obj\Debug\ChapeauUI.Reservations.resources
+C:\Users\Sensei98\Documents\InHolland\1920_1.4\DESIGN PATTERNS\ChapeauProject\ChapeauUI\ChapeauUI\ChapeauUI\obj\Debug\ChapeauUI.Properties.Resources.resources
+C:\Users\Sensei98\Documents\InHolland\1920_1.4\DESIGN PATTERNS\ChapeauProject\ChapeauUI\ChapeauUI\ChapeauUI\obj\Debug\ChapeauUI.TakeOrder.resources
+C:\Users\Sensei98\Documents\InHolland\1920_1.4\DESIGN PATTERNS\ChapeauProject\ChapeauUI\ChapeauUI\ChapeauUI\obj\Debug\ChapeauUI.csproj.GenerateResource.cache
+C:\Users\Sensei98\Documents\InHolland\1920_1.4\DESIGN PATTERNS\ChapeauProject\ChapeauUI\ChapeauUI\ChapeauUI\obj\Debug\ChapeauUI.csproj.CoreCompileInputs.cache
+C:\Users\Sensei98\Documents\InHolland\1920_1.4\DESIGN PATTERNS\ChapeauProject\ChapeauUI\ChapeauUI\ChapeauUI\obj\Debug\ChapeauUI.csproj.CopyComplete
+C:\Users\Sensei98\Documents\InHolland\1920_1.4\DESIGN PATTERNS\ChapeauProject\ChapeauUI\ChapeauUI\ChapeauUI\obj\Debug\ChapeauUI.exe
+C:\Users\Sensei98\Documents\InHolland\1920_1.4\DESIGN PATTERNS\ChapeauProject\ChapeauUI\ChapeauUI\ChapeauUI\obj\Debug\ChapeauUI.pdb
+C:\Users\Gebruiker\Desktop\ChapeauUI\ChapeauUI\obj\Debug\ChapeauUI.csprojAssemblyReference.cache
+C:\Users\Gebruiker\Desktop\ChapeauUI\ChapeauUI\obj\Debug\ChapeauUI.ActionForm.resources
+C:\Users\Gebruiker\Desktop\ChapeauUI\ChapeauUI\obj\Debug\ChapeauUI.BaseForm.resources
+C:\Users\Gebruiker\Desktop\ChapeauUI\ChapeauUI\obj\Debug\ChapeauUI.DialogBox.resources
+C:\Users\Gebruiker\Desktop\ChapeauUI\ChapeauUI\obj\Debug\ChapeauUI.Employees.resources
+C:\Users\Gebruiker\Desktop\ChapeauUI\ChapeauUI\obj\Debug\ChapeauUI.ChapeauHomePage.resources
+C:\Users\Gebruiker\Desktop\ChapeauUI\ChapeauUI\obj\Debug\ChapeauUI.Properties.Resources.resources
+C:\Users\Gebruiker\Desktop\ChapeauUI\ChapeauUI\obj\Debug\ChapeauUI.csproj.GenerateResource.cache
+C:\Users\Gebruiker\Desktop\ChapeauUI\ChapeauUI\obj\Debug\ChapeauUI.csproj.CoreCompileInputs.cache
+C:\Users\Gebruiker\Desktop\ChapeauUI\ChapeauUI\obj\Debug\ChapeauUI.exe
+C:\Users\Gebruiker\Desktop\ChapeauUI\ChapeauUI\obj\Debug\ChapeauUI.pdb
+C:\Users\Gebruiker\Desktop\ChapeauUI\ChapeauUI\bin\Debug\ChapeauUI.exe.config
+C:\Users\Gebruiker\Desktop\ChapeauUI\ChapeauUI\bin\Debug\ChapeauUI.exe
+C:\Users\Gebruiker\Desktop\ChapeauUI\ChapeauUI\bin\Debug\ChapeauUI.pdb
+C:\Users\Gebruiker\Desktop\ChapeauUI\ChapeauUI\bin\Debug\Logic.dll
+C:\Users\Gebruiker\Desktop\ChapeauUI\ChapeauUI\bin\Debug\MODEL.dll
+C:\Users\Gebruiker\Desktop\ChapeauUI\ChapeauUI\bin\Debug\DAL.dll
+C:\Users\Gebruiker\Desktop\ChapeauUI\ChapeauUI\bin\Debug\Logic.pdb
+C:\Users\Gebruiker\Desktop\ChapeauUI\ChapeauUI\bin\Debug\MODEL.pdb
+C:\Users\Gebruiker\Desktop\ChapeauUI\ChapeauUI\bin\Debug\DAL.pdb
+C:\Users\Gebruiker\Desktop\ChapeauUI\ChapeauUI\obj\Debug\ChapeauUI.csproj.CopyComplete
+C:\Users\Gebruiker\Desktop\ChapeauUI\ChapeauUI\obj\Debug\ChapeauUI.TableStates.resources
+C:\Users\Gebruiker\Desktop\ChapeauUI\ChapeauUI\obj\Debug\ChapeauUI.MenuCardSelection.resources
+C:\Users\Gebruiker\Desktop\ChapeauUI\ChapeauUI\obj\Debug\ChapeauUI.TakeOrder.resources
+C:\Users\Gebruiker\Desktop\ChapeauUI\ChapeauUI\obj\Debug\ChapeauUI.StockForm.resources
+C:\Users\Gebruiker\Desktop\ChapeauUI\ChapeauUI\obj\Debug\ChapeauUI.Payments.resources
+C:\Users\Sensei98\Downloads\ChapeauUI (1)\ChapeauUI\ChapeauUI\bin\Debug\ChapeauUI.exe.config
+C:\Users\Sensei98\Downloads\ChapeauUI (1)\ChapeauUI\ChapeauUI\bin\Debug\ChapeauUI.exe
+C:\Users\Sensei98\Downloads\ChapeauUI (1)\ChapeauUI\ChapeauUI\bin\Debug\ChapeauUI.pdb
+C:\Users\Sensei98\Downloads\ChapeauUI (1)\ChapeauUI\ChapeauUI\bin\Debug\Logic.dll
+C:\Users\Sensei98\Downloads\ChapeauUI (1)\ChapeauUI\ChapeauUI\bin\Debug\MODEL.dll
+C:\Users\Sensei98\Downloads\ChapeauUI (1)\ChapeauUI\ChapeauUI\bin\Debug\DAL.dll
+C:\Users\Sensei98\Downloads\ChapeauUI (1)\ChapeauUI\ChapeauUI\bin\Debug\Logic.pdb
+C:\Users\Sensei98\Downloads\ChapeauUI (1)\ChapeauUI\ChapeauUI\bin\Debug\MODEL.pdb
+C:\Users\Sensei98\Downloads\ChapeauUI (1)\ChapeauUI\ChapeauUI\bin\Debug\DAL.pdb
+C:\Users\Sensei98\Downloads\ChapeauUI (1)\ChapeauUI\ChapeauUI\obj\Debug\ChapeauUI.csprojAssemblyReference.cache
+C:\Users\Sensei98\Downloads\ChapeauUI (1)\ChapeauUI\ChapeauUI\obj\Debug\ChapeauUI.ActionForm.resources
+C:\Users\Sensei98\Downloads\ChapeauUI (1)\ChapeauUI\ChapeauUI\obj\Debug\ChapeauUI.BaseForm.resources
+C:\Users\Sensei98\Downloads\ChapeauUI (1)\ChapeauUI\ChapeauUI\obj\Debug\ChapeauUI.DialogBox.resources
+C:\Users\Sensei98\Downloads\ChapeauUI (1)\ChapeauUI\ChapeauUI\obj\Debug\ChapeauUI.Employees.resources
+C:\Users\Sensei98\Downloads\ChapeauUI (1)\ChapeauUI\ChapeauUI\obj\Debug\ChapeauUI.ChapeauHomePage.resources
+C:\Users\Sensei98\Downloads\ChapeauUI (1)\ChapeauUI\ChapeauUI\obj\Debug\ChapeauUI.MenuCardSelection.resources
+C:\Users\Sensei98\Downloads\ChapeauUI (1)\ChapeauUI\ChapeauUI\obj\Debug\ChapeauUI.OrderStatus.resources
+C:\Users\Sensei98\Downloads\ChapeauUI (1)\ChapeauUI\ChapeauUI\obj\Debug\ChapeauUI.Payments.resources
+C:\Users\Sensei98\Downloads\ChapeauUI (1)\ChapeauUI\ChapeauUI\obj\Debug\ChapeauUI.StockForm.resources
+C:\Users\Sensei98\Downloads\ChapeauUI (1)\ChapeauUI\ChapeauUI\obj\Debug\ChapeauUI.TableStates.resources
+C:\Users\Sensei98\Downloads\ChapeauUI (1)\ChapeauUI\ChapeauUI\obj\Debug\ChapeauUI.Properties.Resources.resources
+C:\Users\Sensei98\Downloads\ChapeauUI (1)\ChapeauUI\ChapeauUI\obj\Debug\ChapeauUI.TakeOrder.resources
+C:\Users\Sensei98\Downloads\ChapeauUI (1)\ChapeauUI\ChapeauUI\obj\Debug\ChapeauUI.WorkPlace.resources
+C:\Users\Sensei98\Downloads\ChapeauUI (1)\ChapeauUI\ChapeauUI\obj\Debug\ChapeauUI.csproj.GenerateResource.cache
+C:\Users\Sensei98\Downloads\ChapeauUI (1)\ChapeauUI\ChapeauUI\obj\Debug\ChapeauUI.csproj.CoreCompileInputs.cache
+C:\Users\Sensei98\Downloads\ChapeauUI (1)\ChapeauUI\ChapeauUI\obj\Debug\ChapeauUI.csproj.CopyComplete
+C:\Users\Sensei98\Downloads\ChapeauUI (1)\ChapeauUI\ChapeauUI\obj\Debug\ChapeauUI.exe
+C:\Users\Sensei98\Downloads\ChapeauUI (1)\ChapeauUI\ChapeauUI\obj\Debug\ChapeauUI.pdb
+C:\Users\Gebruiker\Desktop\ChapeauUI\ChapeauUI\obj\Debug\ChapeauUI.OrderView.resources
+C:\Users\Sensei98\Downloads\newTing(2)\ChapeauUI\ChapeauUI\bin\Debug\ChapeauUI.exe.config
+C:\Users\Sensei98\Downloads\newTing(2)\ChapeauUI\ChapeauUI\bin\Debug\ChapeauUI.exe
+C:\Users\Sensei98\Downloads\newTing(2)\ChapeauUI\ChapeauUI\bin\Debug\ChapeauUI.pdb
+C:\Users\Sensei98\Downloads\newTing(2)\ChapeauUI\ChapeauUI\bin\Debug\Logic.dll
+C:\Users\Sensei98\Downloads\newTing(2)\ChapeauUI\ChapeauUI\bin\Debug\MODEL.dll
+C:\Users\Sensei98\Downloads\newTing(2)\ChapeauUI\ChapeauUI\bin\Debug\DAL.dll
+C:\Users\Sensei98\Downloads\newTing(2)\ChapeauUI\ChapeauUI\bin\Debug\Logic.pdb
+C:\Users\Sensei98\Downloads\newTing(2)\ChapeauUI\ChapeauUI\bin\Debug\MODEL.pdb
+C:\Users\Sensei98\Downloads\newTing(2)\ChapeauUI\ChapeauUI\bin\Debug\DAL.pdb
+C:\Users\Sensei98\Downloads\newTing(2)\ChapeauUI\ChapeauUI\obj\Debug\ChapeauUI.csprojAssemblyReference.cache
+C:\Users\Sensei98\Downloads\newTing(2)\ChapeauUI\ChapeauUI\obj\Debug\ChapeauUI.ActionForm.resources
+C:\Users\Sensei98\Downloads\newTing(2)\ChapeauUI\ChapeauUI\obj\Debug\ChapeauUI.BaseForm.resources
+C:\Users\Sensei98\Downloads\newTing(2)\ChapeauUI\ChapeauUI\obj\Debug\ChapeauUI.DialogBox.resources
+C:\Users\Sensei98\Downloads\newTing(2)\ChapeauUI\ChapeauUI\obj\Debug\ChapeauUI.Employees.resources
+C:\Users\Sensei98\Downloads\newTing(2)\ChapeauUI\ChapeauUI\obj\Debug\ChapeauUI.ChapeauHomePage.resources
+C:\Users\Sensei98\Downloads\newTing(2)\ChapeauUI\ChapeauUI\obj\Debug\ChapeauUI.MenuCardSelection.resources
+C:\Users\Sensei98\Downloads\newTing(2)\ChapeauUI\ChapeauUI\obj\Debug\ChapeauUI.Payments.resources
+C:\Users\Sensei98\Downloads\newTing(2)\ChapeauUI\ChapeauUI\obj\Debug\ChapeauUI.StockForm.resources
+C:\Users\Sensei98\Downloads\newTing(2)\ChapeauUI\ChapeauUI\obj\Debug\ChapeauUI.TableStates.resources
+C:\Users\Sensei98\Downloads\newTing(2)\ChapeauUI\ChapeauUI\obj\Debug\ChapeauUI.Properties.Resources.resources
+C:\Users\Sensei98\Downloads\newTing(2)\ChapeauUI\ChapeauUI\obj\Debug\ChapeauUI.TakeOrder.resources
+C:\Users\Sensei98\Downloads\newTing(2)\ChapeauUI\ChapeauUI\obj\Debug\ChapeauUI.OrderView.resources
+C:\Users\Sensei98\Downloads\newTing(2)\ChapeauUI\ChapeauUI\obj\Debug\ChapeauUI.csproj.GenerateResource.cache
+C:\Users\Sensei98\Downloads\newTing(2)\ChapeauUI\ChapeauUI\obj\Debug\ChapeauUI.csproj.CoreCompileInputs.cache
+C:\Users\Sensei98\Downloads\newTing(2)\ChapeauUI\ChapeauUI\obj\Debug\ChapeauUI.csproj.CopyComplete
+C:\Users\Sensei98\Downloads\newTing(2)\ChapeauUI\ChapeauUI\obj\Debug\ChapeauUI.exe
+C:\Users\Sensei98\Downloads\newTing(2)\ChapeauUI\ChapeauUI\obj\Debug\ChapeauUI.pdb
+C:\Users\Gebruiker\Desktop\fuck it\ChapeauUi.New\ChapeauUI\ChapeauUI\bin\Debug\ChapeauUI.exe.config
+C:\Users\Gebruiker\Desktop\fuck it\ChapeauUi.New\ChapeauUI\ChapeauUI\bin\Debug\ChapeauUI.exe
+C:\Users\Gebruiker\Desktop\fuck it\ChapeauUi.New\ChapeauUI\ChapeauUI\bin\Debug\ChapeauUI.pdb
+C:\Users\Gebruiker\Desktop\fuck it\ChapeauUi.New\ChapeauUI\ChapeauUI\bin\Debug\Logic.dll
+C:\Users\Gebruiker\Desktop\fuck it\ChapeauUi.New\ChapeauUI\ChapeauUI\bin\Debug\MODEL.dll
+C:\Users\Gebruiker\Desktop\fuck it\ChapeauUi.New\ChapeauUI\ChapeauUI\bin\Debug\DAL.dll
+C:\Users\Gebruiker\Desktop\fuck it\ChapeauUi.New\ChapeauUI\ChapeauUI\bin\Debug\Logic.pdb
+C:\Users\Gebruiker\Desktop\fuck it\ChapeauUi.New\ChapeauUI\ChapeauUI\bin\Debug\MODEL.pdb
+C:\Users\Gebruiker\Desktop\fuck it\ChapeauUi.New\ChapeauUI\ChapeauUI\bin\Debug\DAL.pdb
+C:\Users\Gebruiker\Desktop\fuck it\ChapeauUi.New\ChapeauUI\ChapeauUI\obj\Debug\ChapeauUI.csprojAssemblyReference.cache
+C:\Users\Gebruiker\Desktop\fuck it\ChapeauUi.New\ChapeauUI\ChapeauUI\obj\Debug\ChapeauUI.ActionForm.resources
+C:\Users\Gebruiker\Desktop\fuck it\ChapeauUi.New\ChapeauUI\ChapeauUI\obj\Debug\ChapeauUI.BaseForm.resources
+C:\Users\Gebruiker\Desktop\fuck it\ChapeauUi.New\ChapeauUI\ChapeauUI\obj\Debug\ChapeauUI.DialogBox.resources
+C:\Users\Gebruiker\Desktop\fuck it\ChapeauUi.New\ChapeauUI\ChapeauUI\obj\Debug\ChapeauUI.Employees.resources
+C:\Users\Gebruiker\Desktop\fuck it\ChapeauUi.New\ChapeauUI\ChapeauUI\obj\Debug\ChapeauUI.ChapeauHomePage.resources
+C:\Users\Gebruiker\Desktop\fuck it\ChapeauUi.New\ChapeauUI\ChapeauUI\obj\Debug\ChapeauUI.MenuCardSelection.resources
+C:\Users\Gebruiker\Desktop\fuck it\ChapeauUi.New\ChapeauUI\ChapeauUI\obj\Debug\ChapeauUI.Payments.resources
+C:\Users\Gebruiker\Desktop\fuck it\ChapeauUi.New\ChapeauUI\ChapeauUI\obj\Debug\ChapeauUI.StockForm.resources
+C:\Users\Gebruiker\Desktop\fuck it\ChapeauUi.New\ChapeauUI\ChapeauUI\obj\Debug\ChapeauUI.TableStates.resources
+C:\Users\Gebruiker\Desktop\fuck it\ChapeauUi.New\ChapeauUI\ChapeauUI\obj\Debug\ChapeauUI.Properties.Resources.resources
+C:\Users\Gebruiker\Desktop\fuck it\ChapeauUi.New\ChapeauUI\ChapeauUI\obj\Debug\ChapeauUI.TakeOrder.resources
+C:\Users\Gebruiker\Desktop\fuck it\ChapeauUi.New\ChapeauUI\ChapeauUI\obj\Debug\ChapeauUI.OrderView.resources
+C:\Users\Gebruiker\Desktop\fuck it\ChapeauUi.New\ChapeauUI\ChapeauUI\obj\Debug\ChapeauUI.csproj.GenerateResource.cache
+C:\Users\Gebruiker\Desktop\fuck it\ChapeauUi.New\ChapeauUI\ChapeauUI\obj\Debug\ChapeauUI.csproj.CoreCompileInputs.cache
+C:\Users\Gebruiker\Desktop\fuck it\ChapeauUi.New\ChapeauUI\ChapeauUI\obj\Debug\ChapeauUI.csproj.CopyComplete
+C:\Users\Gebruiker\Desktop\fuck it\ChapeauUi.New\ChapeauUI\ChapeauUI\obj\Debug\ChapeauUI.exe
+C:\Users\Gebruiker\Desktop\fuck it\ChapeauUi.New\ChapeauUI\ChapeauUI\obj\Debug\ChapeauUI.pdb
+C:\Users\Gebruiker\Desktop\fuck it\ChapeauUI\ChapeauUI\bin\Debug\ChapeauUI.exe.config
+C:\Users\Gebruiker\Desktop\fuck it\ChapeauUI\ChapeauUI\bin\Debug\ChapeauUI.exe
+C:\Users\Gebruiker\Desktop\fuck it\ChapeauUI\ChapeauUI\bin\Debug\ChapeauUI.pdb
+C:\Users\Gebruiker\Desktop\fuck it\ChapeauUI\ChapeauUI\bin\Debug\Logic.dll
+C:\Users\Gebruiker\Desktop\fuck it\ChapeauUI\ChapeauUI\bin\Debug\MODEL.dll
+C:\Users\Gebruiker\Desktop\fuck it\ChapeauUI\ChapeauUI\bin\Debug\DAL.dll
+C:\Users\Gebruiker\Desktop\fuck it\ChapeauUI\ChapeauUI\bin\Debug\Logic.pdb
+C:\Users\Gebruiker\Desktop\fuck it\ChapeauUI\ChapeauUI\bin\Debug\MODEL.pdb
+C:\Users\Gebruiker\Desktop\fuck it\ChapeauUI\ChapeauUI\bin\Debug\DAL.pdb
+C:\Users\Gebruiker\Desktop\fuck it\ChapeauUI\ChapeauUI\obj\Debug\ChapeauUI.csprojAssemblyReference.cache
+C:\Users\Gebruiker\Desktop\fuck it\ChapeauUI\ChapeauUI\obj\Debug\ChapeauUI.ActionForm.resources
+C:\Users\Gebruiker\Desktop\fuck it\ChapeauUI\ChapeauUI\obj\Debug\ChapeauUI.BaseForm.resources
+C:\Users\Gebruiker\Desktop\fuck it\ChapeauUI\ChapeauUI\obj\Debug\ChapeauUI.DialogBox.resources
+C:\Users\Gebruiker\Desktop\fuck it\ChapeauUI\ChapeauUI\obj\Debug\ChapeauUI.Employees.resources
+C:\Users\Gebruiker\Desktop\fuck it\ChapeauUI\ChapeauUI\obj\Debug\ChapeauUI.ChapeauHomePage.resources
+C:\Users\Gebruiker\Desktop\fuck it\ChapeauUI\ChapeauUI\obj\Debug\ChapeauUI.MenuCardSelection.resources
+C:\Users\Gebruiker\Desktop\fuck it\ChapeauUI\ChapeauUI\obj\Debug\ChapeauUI.Payments.resources
+C:\Users\Gebruiker\Desktop\fuck it\ChapeauUI\ChapeauUI\obj\Debug\ChapeauUI.StockForm.resources
+C:\Users\Gebruiker\Desktop\fuck it\ChapeauUI\ChapeauUI\obj\Debug\ChapeauUI.TableStates.resources
+C:\Users\Gebruiker\Desktop\fuck it\ChapeauUI\ChapeauUI\obj\Debug\ChapeauUI.Properties.Resources.resources
+C:\Users\Gebruiker\Desktop\fuck it\ChapeauUI\ChapeauUI\obj\Debug\ChapeauUI.TakeOrder.resources
+C:\Users\Gebruiker\Desktop\fuck it\ChapeauUI\ChapeauUI\obj\Debug\ChapeauUI.OrderView.resources
+C:\Users\Gebruiker\Desktop\fuck it\ChapeauUI\ChapeauUI\obj\Debug\ChapeauUI.csproj.GenerateResource.cache
+C:\Users\Gebruiker\Desktop\fuck it\ChapeauUI\ChapeauUI\obj\Debug\ChapeauUI.csproj.CoreCompileInputs.cache
+C:\Users\Gebruiker\Desktop\fuck it\ChapeauUI\ChapeauUI\obj\Debug\ChapeauUI.csproj.CopyComplete
+C:\Users\Gebruiker\Desktop\fuck it\ChapeauUI\ChapeauUI\obj\Debug\ChapeauUI.exe
+C:\Users\Gebruiker\Desktop\fuck it\ChapeauUI\ChapeauUI\obj\Debug\ChapeauUI.pdb
+C:\Users\wslo0\Downloads\Chapeau new solution\ChapeauUI\ChapeauUI\bin\Debug\ChapeauUI.exe.config
+C:\Users\wslo0\Downloads\Chapeau new solution\ChapeauUI\ChapeauUI\bin\Debug\ChapeauUI.exe
+C:\Users\wslo0\Downloads\Chapeau new solution\ChapeauUI\ChapeauUI\bin\Debug\ChapeauUI.pdb
+C:\Users\wslo0\Downloads\Chapeau new solution\ChapeauUI\ChapeauUI\bin\Debug\Logic.dll
+C:\Users\wslo0\Downloads\Chapeau new solution\ChapeauUI\ChapeauUI\bin\Debug\MODEL.dll
+C:\Users\wslo0\Downloads\Chapeau new solution\ChapeauUI\ChapeauUI\bin\Debug\DAL.dll
+C:\Users\wslo0\Downloads\Chapeau new solution\ChapeauUI\ChapeauUI\bin\Debug\Logic.pdb
+C:\Users\wslo0\Downloads\Chapeau new solution\ChapeauUI\ChapeauUI\bin\Debug\MODEL.pdb
+C:\Users\wslo0\Downloads\Chapeau new solution\ChapeauUI\ChapeauUI\bin\Debug\DAL.pdb
+C:\Users\wslo0\Downloads\Chapeau new solution\ChapeauUI\ChapeauUI\obj\Debug\ChapeauUI.csprojAssemblyReference.cache
+C:\Users\wslo0\Downloads\Chapeau new solution\ChapeauUI\ChapeauUI\obj\Debug\ChapeauUI.ActionForm.resources
+C:\Users\wslo0\Downloads\Chapeau new solution\ChapeauUI\ChapeauUI\obj\Debug\ChapeauUI.BaseForm.resources
+C:\Users\wslo0\Downloads\Chapeau new solution\ChapeauUI\ChapeauUI\obj\Debug\ChapeauUI.DialogBox.resources
+C:\Users\wslo0\Downloads\Chapeau new solution\ChapeauUI\ChapeauUI\obj\Debug\ChapeauUI.Employees.resources
+C:\Users\wslo0\Downloads\Chapeau new solution\ChapeauUI\ChapeauUI\obj\Debug\ChapeauUI.ChapeauHomePage.resources
+C:\Users\wslo0\Downloads\Chapeau new solution\ChapeauUI\ChapeauUI\obj\Debug\ChapeauUI.MenuCardSelection.resources
+C:\Users\wslo0\Downloads\Chapeau new solution\ChapeauUI\ChapeauUI\obj\Debug\ChapeauUI.Payments.resources
+C:\Users\wslo0\Downloads\Chapeau new solution\ChapeauUI\ChapeauUI\obj\Debug\ChapeauUI.StockForm.resources
+C:\Users\wslo0\Downloads\Chapeau new solution\ChapeauUI\ChapeauUI\obj\Debug\ChapeauUI.TableStates.resources
+C:\Users\wslo0\Downloads\Chapeau new solution\ChapeauUI\ChapeauUI\obj\Debug\ChapeauUI.Properties.Resources.resources
+C:\Users\wslo0\Downloads\Chapeau new solution\ChapeauUI\ChapeauUI\obj\Debug\ChapeauUI.TakeOrder.resources
+C:\Users\wslo0\Downloads\Chapeau new solution\ChapeauUI\ChapeauUI\obj\Debug\ChapeauUI.OrderView.resources
+C:\Users\wslo0\Downloads\Chapeau new solution\ChapeauUI\ChapeauUI\obj\Debug\ChapeauUI.csproj.GenerateResource.cache
+C:\Users\wslo0\Downloads\Chapeau new solution\ChapeauUI\ChapeauUI\obj\Debug\ChapeauUI.csproj.CoreCompileInputs.cache
+C:\Users\wslo0\Downloads\Chapeau new solution\ChapeauUI\ChapeauUI\obj\Debug\ChapeauUI.csproj.CopyComplete
+C:\Users\wslo0\Downloads\Chapeau new solution\ChapeauUI\ChapeauUI\obj\Debug\ChapeauUI.exe
+C:\Users\wslo0\Downloads\Chapeau new solution\ChapeauUI\ChapeauUI\obj\Debug\ChapeauUI.pdb
+C:\Users\wslo0\Downloads\ChapeauUI Final Solution\ChapeauUI\ChapeauUI\bin\Debug\ChapeauUI.exe.config
+C:\Users\wslo0\Downloads\ChapeauUI Final Solution\ChapeauUI\ChapeauUI\bin\Debug\ChapeauUI.exe
+C:\Users\wslo0\Downloads\ChapeauUI Final Solution\ChapeauUI\ChapeauUI\bin\Debug\ChapeauUI.pdb
+C:\Users\wslo0\Downloads\ChapeauUI Final Solution\ChapeauUI\ChapeauUI\bin\Debug\Logic.dll
+C:\Users\wslo0\Downloads\ChapeauUI Final Solution\ChapeauUI\ChapeauUI\bin\Debug\MODEL.dll
+C:\Users\wslo0\Downloads\ChapeauUI Final Solution\ChapeauUI\ChapeauUI\bin\Debug\DAL.dll
+C:\Users\wslo0\Downloads\ChapeauUI Final Solution\ChapeauUI\ChapeauUI\bin\Debug\Logic.pdb
+C:\Users\wslo0\Downloads\ChapeauUI Final Solution\ChapeauUI\ChapeauUI\bin\Debug\MODEL.pdb
+C:\Users\wslo0\Downloads\ChapeauUI Final Solution\ChapeauUI\ChapeauUI\bin\Debug\DAL.pdb
+C:\Users\wslo0\Downloads\ChapeauUI Final Solution\ChapeauUI\ChapeauUI\obj\Debug\ChapeauUI.csprojAssemblyReference.cache
+C:\Users\wslo0\Downloads\ChapeauUI Final Solution\ChapeauUI\ChapeauUI\obj\Debug\ChapeauUI.ActionForm.resources
+C:\Users\wslo0\Downloads\ChapeauUI Final Solution\ChapeauUI\ChapeauUI\obj\Debug\ChapeauUI.BaseForm.resources
+C:\Users\wslo0\Downloads\ChapeauUI Final Solution\ChapeauUI\ChapeauUI\obj\Debug\ChapeauUI.DialogBox.resources
+C:\Users\wslo0\Downloads\ChapeauUI Final Solution\ChapeauUI\ChapeauUI\obj\Debug\ChapeauUI.Employees.resources
+C:\Users\wslo0\Downloads\ChapeauUI Final Solution\ChapeauUI\ChapeauUI\obj\Debug\ChapeauUI.ChapeauHomePage.resources
+C:\Users\wslo0\Downloads\ChapeauUI Final Solution\ChapeauUI\ChapeauUI\obj\Debug\ChapeauUI.MenuCardSelection.resources
+C:\Users\wslo0\Downloads\ChapeauUI Final Solution\ChapeauUI\ChapeauUI\obj\Debug\ChapeauUI.Payments.resources
+C:\Users\wslo0\Downloads\ChapeauUI Final Solution\ChapeauUI\ChapeauUI\obj\Debug\ChapeauUI.StockForm.resources
+C:\Users\wslo0\Downloads\ChapeauUI Final Solution\ChapeauUI\ChapeauUI\obj\Debug\ChapeauUI.TableStates.resources
+C:\Users\wslo0\Downloads\ChapeauUI Final Solution\ChapeauUI\ChapeauUI\obj\Debug\ChapeauUI.Properties.Resources.resources
+C:\Users\wslo0\Downloads\ChapeauUI Final Solution\ChapeauUI\ChapeauUI\obj\Debug\ChapeauUI.TakeOrder.resources
+C:\Users\wslo0\Downloads\ChapeauUI Final Solution\ChapeauUI\ChapeauUI\obj\Debug\ChapeauUI.OrderView.resources
+C:\Users\wslo0\Downloads\ChapeauUI Final Solution\ChapeauUI\ChapeauUI\obj\Debug\ChapeauUI.csproj.GenerateResource.cache
+C:\Users\wslo0\Downloads\ChapeauUI Final Solution\ChapeauUI\ChapeauUI\obj\Debug\ChapeauUI.csproj.CoreCompileInputs.cache
+C:\Users\wslo0\Downloads\ChapeauUI Final Solution\ChapeauUI\ChapeauUI\obj\Debug\ChapeauUI.csproj.CopyComplete
+C:\Users\wslo0\Downloads\ChapeauUI Final Solution\ChapeauUI\ChapeauUI\obj\Debug\ChapeauUI.exe
+C:\Users\wslo0\Downloads\ChapeauUI Final Solution\ChapeauUI\ChapeauUI\obj\Debug\ChapeauUI.pdb
+C:\Users\Sensei98\Downloads\GR07_ChapeauSolution\ChapeauUI\ChapeauUI\bin\Debug\ChapeauUI.exe.config
+C:\Users\Sensei98\Downloads\GR07_ChapeauSolution\ChapeauUI\ChapeauUI\bin\Debug\ChapeauUI.exe
+C:\Users\Sensei98\Downloads\GR07_ChapeauSolution\ChapeauUI\ChapeauUI\bin\Debug\ChapeauUI.pdb
+C:\Users\Sensei98\Downloads\GR07_ChapeauSolution\ChapeauUI\ChapeauUI\bin\Debug\Logic.dll
+C:\Users\Sensei98\Downloads\GR07_ChapeauSolution\ChapeauUI\ChapeauUI\bin\Debug\MODEL.dll
+C:\Users\Sensei98\Downloads\GR07_ChapeauSolution\ChapeauUI\ChapeauUI\bin\Debug\DAL.dll
+C:\Users\Sensei98\Downloads\GR07_ChapeauSolution\ChapeauUI\ChapeauUI\bin\Debug\Logic.pdb
+C:\Users\Sensei98\Downloads\GR07_ChapeauSolution\ChapeauUI\ChapeauUI\bin\Debug\MODEL.pdb
+C:\Users\Sensei98\Downloads\GR07_ChapeauSolution\ChapeauUI\ChapeauUI\bin\Debug\DAL.pdb
+C:\Users\Sensei98\Downloads\GR07_ChapeauSolution\ChapeauUI\ChapeauUI\obj\Debug\ChapeauUI.csprojAssemblyReference.cache
+C:\Users\Sensei98\Downloads\GR07_ChapeauSolution\ChapeauUI\ChapeauUI\obj\Debug\ChapeauUI.ActionForm.resources
+C:\Users\Sensei98\Downloads\GR07_ChapeauSolution\ChapeauUI\ChapeauUI\obj\Debug\ChapeauUI.BaseForm.resources
+C:\Users\Sensei98\Downloads\GR07_ChapeauSolution\ChapeauUI\ChapeauUI\obj\Debug\ChapeauUI.DialogBox.resources
+C:\Users\Sensei98\Downloads\GR07_ChapeauSolution\ChapeauUI\ChapeauUI\obj\Debug\ChapeauUI.Employees.resources
+C:\Users\Sensei98\Downloads\GR07_ChapeauSolution\ChapeauUI\ChapeauUI\obj\Debug\ChapeauUI.ChapeauHomePage.resources
+C:\Users\Sensei98\Downloads\GR07_ChapeauSolution\ChapeauUI\ChapeauUI\obj\Debug\ChapeauUI.MenuCardSelection.resources
+C:\Users\Sensei98\Downloads\GR07_ChapeauSolution\ChapeauUI\ChapeauUI\obj\Debug\ChapeauUI.Payments.resources
+C:\Users\Sensei98\Downloads\GR07_ChapeauSolution\ChapeauUI\ChapeauUI\obj\Debug\ChapeauUI.StockForm.resources
+C:\Users\Sensei98\Downloads\GR07_ChapeauSolution\ChapeauUI\ChapeauUI\obj\Debug\ChapeauUI.TableStates.resources
+C:\Users\Sensei98\Downloads\GR07_ChapeauSolution\ChapeauUI\ChapeauUI\obj\Debug\ChapeauUI.Properties.Resources.resources
+C:\Users\Sensei98\Downloads\GR07_ChapeauSolution\ChapeauUI\ChapeauUI\obj\Debug\ChapeauUI.TakeOrder.resources
+C:\Users\Sensei98\Downloads\GR07_ChapeauSolution\ChapeauUI\ChapeauUI\obj\Debug\ChapeauUI.OrderView.resources
+C:\Users\Sensei98\Downloads\GR07_ChapeauSolution\ChapeauUI\ChapeauUI\obj\Debug\ChapeauUI.csproj.GenerateResource.cache
+C:\Users\Sensei98\Downloads\GR07_ChapeauSolution\ChapeauUI\ChapeauUI\obj\Debug\ChapeauUI.csproj.CoreCompileInputs.cache
+C:\Users\Sensei98\Downloads\GR07_ChapeauSolution\ChapeauUI\ChapeauUI\obj\Debug\ChapeauUI.csproj.CopyComplete
+C:\Users\Sensei98\Downloads\GR07_ChapeauSolution\ChapeauUI\ChapeauUI\obj\Debug\ChapeauUI.exe
+C:\Users\Sensei98\Downloads\GR07_ChapeauSolution\ChapeauUI\ChapeauUI\obj\Debug\ChapeauUI.pdb
+C:\Users\Sensei98\Documents\InHolland\1920_1.4\DESIGN PATTERNS\ChapeauProject\GR07_ChapeauSolution\ChapeauUI\ChapeauUI\bin\Debug\ChapeauUI.exe.config
+C:\Users\Sensei98\Documents\InHolland\1920_1.4\DESIGN PATTERNS\ChapeauProject\GR07_ChapeauSolution\ChapeauUI\ChapeauUI\bin\Debug\ChapeauUI.exe
+C:\Users\Sensei98\Documents\InHolland\1920_1.4\DESIGN PATTERNS\ChapeauProject\GR07_ChapeauSolution\ChapeauUI\ChapeauUI\bin\Debug\ChapeauUI.pdb
+C:\Users\Sensei98\Documents\InHolland\1920_1.4\DESIGN PATTERNS\ChapeauProject\GR07_ChapeauSolution\ChapeauUI\ChapeauUI\bin\Debug\Logic.dll
+C:\Users\Sensei98\Documents\InHolland\1920_1.4\DESIGN PATTERNS\ChapeauProject\GR07_ChapeauSolution\ChapeauUI\ChapeauUI\bin\Debug\MODEL.dll
+C:\Users\Sensei98\Documents\InHolland\1920_1.4\DESIGN PATTERNS\ChapeauProject\GR07_ChapeauSolution\ChapeauUI\ChapeauUI\bin\Debug\DAL.dll
+C:\Users\Sensei98\Documents\InHolland\1920_1.4\DESIGN PATTERNS\ChapeauProject\GR07_ChapeauSolution\ChapeauUI\ChapeauUI\bin\Debug\Logic.pdb
+C:\Users\Sensei98\Documents\InHolland\1920_1.4\DESIGN PATTERNS\ChapeauProject\GR07_ChapeauSolution\ChapeauUI\ChapeauUI\bin\Debug\MODEL.pdb
+C:\Users\Sensei98\Documents\InHolland\1920_1.4\DESIGN PATTERNS\ChapeauProject\GR07_ChapeauSolution\ChapeauUI\ChapeauUI\bin\Debug\DAL.pdb
+C:\Users\Sensei98\Documents\InHolland\1920_1.4\DESIGN PATTERNS\ChapeauProject\GR07_ChapeauSolution\ChapeauUI\ChapeauUI\obj\Debug\ChapeauUI.csprojAssemblyReference.cache
+C:\Users\Sensei98\Documents\InHolland\1920_1.4\DESIGN PATTERNS\ChapeauProject\GR07_ChapeauSolution\ChapeauUI\ChapeauUI\obj\Debug\ChapeauUI.ActionForm.resources
+C:\Users\Sensei98\Documents\InHolland\1920_1.4\DESIGN PATTERNS\ChapeauProject\GR07_ChapeauSolution\ChapeauUI\ChapeauUI\obj\Debug\ChapeauUI.BaseForm.resources
+C:\Users\Sensei98\Documents\InHolland\1920_1.4\DESIGN PATTERNS\ChapeauProject\GR07_ChapeauSolution\ChapeauUI\ChapeauUI\obj\Debug\ChapeauUI.DialogBox.resources
+C:\Users\Sensei98\Documents\InHolland\1920_1.4\DESIGN PATTERNS\ChapeauProject\GR07_ChapeauSolution\ChapeauUI\ChapeauUI\obj\Debug\ChapeauUI.Employees.resources
+C:\Users\Sensei98\Documents\InHolland\1920_1.4\DESIGN PATTERNS\ChapeauProject\GR07_ChapeauSolution\ChapeauUI\ChapeauUI\obj\Debug\ChapeauUI.ChapeauHomePage.resources
+C:\Users\Sensei98\Documents\InHolland\1920_1.4\DESIGN PATTERNS\ChapeauProject\GR07_ChapeauSolution\ChapeauUI\ChapeauUI\obj\Debug\ChapeauUI.MenuCardSelection.resources
+C:\Users\Sensei98\Documents\InHolland\1920_1.4\DESIGN PATTERNS\ChapeauProject\GR07_ChapeauSolution\ChapeauUI\ChapeauUI\obj\Debug\ChapeauUI.Payments.resources
+C:\Users\Sensei98\Documents\InHolland\1920_1.4\DESIGN PATTERNS\ChapeauProject\GR07_ChapeauSolution\ChapeauUI\ChapeauUI\obj\Debug\ChapeauUI.StockForm.resources
+C:\Users\Sensei98\Documents\InHolland\1920_1.4\DESIGN PATTERNS\ChapeauProject\GR07_ChapeauSolution\ChapeauUI\ChapeauUI\obj\Debug\ChapeauUI.TableStates.resources
+C:\Users\Sensei98\Documents\InHolland\1920_1.4\DESIGN PATTERNS\ChapeauProject\GR07_ChapeauSolution\ChapeauUI\ChapeauUI\obj\Debug\ChapeauUI.Properties.Resources.resources
+C:\Users\Sensei98\Documents\InHolland\1920_1.4\DESIGN PATTERNS\ChapeauProject\GR07_ChapeauSolution\ChapeauUI\ChapeauUI\obj\Debug\ChapeauUI.TakeOrder.resources
+C:\Users\Sensei98\Documents\InHolland\1920_1.4\DESIGN PATTERNS\ChapeauProject\GR07_ChapeauSolution\ChapeauUI\ChapeauUI\obj\Debug\ChapeauUI.OrderView.resources
+C:\Users\Sensei98\Documents\InHolland\1920_1.4\DESIGN PATTERNS\ChapeauProject\GR07_ChapeauSolution\ChapeauUI\ChapeauUI\obj\Debug\ChapeauUI.csproj.GenerateResource.cache
+C:\Users\Sensei98\Documents\InHolland\1920_1.4\DESIGN PATTERNS\ChapeauProject\GR07_ChapeauSolution\ChapeauUI\ChapeauUI\obj\Debug\ChapeauUI.csproj.CoreCompileInputs.cache
+C:\Users\Sensei98\Documents\InHolland\1920_1.4\DESIGN PATTERNS\ChapeauProject\GR07_ChapeauSolution\ChapeauUI\ChapeauUI\obj\Debug\ChapeauUI.csproj.CopyComplete
+C:\Users\Sensei98\Documents\InHolland\1920_1.4\DESIGN PATTERNS\ChapeauProject\GR07_ChapeauSolution\ChapeauUI\ChapeauUI\obj\Debug\ChapeauUI.exe
+C:\Users\Sensei98\Documents\InHolland\1920_1.4\DESIGN PATTERNS\ChapeauProject\GR07_ChapeauSolution\ChapeauUI\ChapeauUI\obj\Debug\ChapeauUI.pdb
+C:\Users\Sensei98\Documents\InHolland\YEAR 1\1920_1.4\DESIGN PATTERNS\ChapeauProject\ChapeauProject\GR07_ChapeauSolution\ChapeauUI\ChapeauUI\bin\Debug\ChapeauUI.exe.config
+C:\Users\Sensei98\Documents\InHolland\YEAR 1\1920_1.4\DESIGN PATTERNS\ChapeauProject\ChapeauProject\GR07_ChapeauSolution\ChapeauUI\ChapeauUI\bin\Debug\ChapeauUI.exe
+C:\Users\Sensei98\Documents\InHolland\YEAR 1\1920_1.4\DESIGN PATTERNS\ChapeauProject\ChapeauProject\GR07_ChapeauSolution\ChapeauUI\ChapeauUI\bin\Debug\ChapeauUI.pdb
+C:\Users\Sensei98\Documents\InHolland\YEAR 1\1920_1.4\DESIGN PATTERNS\ChapeauProject\ChapeauProject\GR07_ChapeauSolution\ChapeauUI\ChapeauUI\bin\Debug\Logic.dll
+C:\Users\Sensei98\Documents\InHolland\YEAR 1\1920_1.4\DESIGN PATTERNS\ChapeauProject\ChapeauProject\GR07_ChapeauSolution\ChapeauUI\ChapeauUI\bin\Debug\MODEL.dll
+C:\Users\Sensei98\Documents\InHolland\YEAR 1\1920_1.4\DESIGN PATTERNS\ChapeauProject\ChapeauProject\GR07_ChapeauSolution\ChapeauUI\ChapeauUI\bin\Debug\DAL.dll
+C:\Users\Sensei98\Documents\InHolland\YEAR 1\1920_1.4\DESIGN PATTERNS\ChapeauProject\ChapeauProject\GR07_ChapeauSolution\ChapeauUI\ChapeauUI\bin\Debug\Logic.pdb
+C:\Users\Sensei98\Documents\InHolland\YEAR 1\1920_1.4\DESIGN PATTERNS\ChapeauProject\ChapeauProject\GR07_ChapeauSolution\ChapeauUI\ChapeauUI\bin\Debug\MODEL.pdb
+C:\Users\Sensei98\Documents\InHolland\YEAR 1\1920_1.4\DESIGN PATTERNS\ChapeauProject\ChapeauProject\GR07_ChapeauSolution\ChapeauUI\ChapeauUI\bin\Debug\DAL.pdb
+C:\Users\Sensei98\Documents\InHolland\YEAR 1\1920_1.4\DESIGN PATTERNS\ChapeauProject\ChapeauProject\GR07_ChapeauSolution\ChapeauUI\ChapeauUI\obj\Debug\ChapeauUI.csprojAssemblyReference.cache
+C:\Users\Sensei98\Documents\InHolland\YEAR 1\1920_1.4\DESIGN PATTERNS\ChapeauProject\ChapeauProject\GR07_ChapeauSolution\ChapeauUI\ChapeauUI\obj\Debug\ChapeauUI.ActionForm.resources
+C:\Users\Sensei98\Documents\InHolland\YEAR 1\1920_1.4\DESIGN PATTERNS\ChapeauProject\ChapeauProject\GR07_ChapeauSolution\ChapeauUI\ChapeauUI\obj\Debug\ChapeauUI.BaseForm.resources
+C:\Users\Sensei98\Documents\InHolland\YEAR 1\1920_1.4\DESIGN PATTERNS\ChapeauProject\ChapeauProject\GR07_ChapeauSolution\ChapeauUI\ChapeauUI\obj\Debug\ChapeauUI.DialogBox.resources
+C:\Users\Sensei98\Documents\InHolland\YEAR 1\1920_1.4\DESIGN PATTERNS\ChapeauProject\ChapeauProject\GR07_ChapeauSolution\ChapeauUI\ChapeauUI\obj\Debug\ChapeauUI.Employees.resources
+C:\Users\Sensei98\Documents\InHolland\YEAR 1\1920_1.4\DESIGN PATTERNS\ChapeauProject\ChapeauProject\GR07_ChapeauSolution\ChapeauUI\ChapeauUI\obj\Debug\ChapeauUI.ChapeauHomePage.resources
+C:\Users\Sensei98\Documents\InHolland\YEAR 1\1920_1.4\DESIGN PATTERNS\ChapeauProject\ChapeauProject\GR07_ChapeauSolution\ChapeauUI\ChapeauUI\obj\Debug\ChapeauUI.MenuCardSelection.resources
+C:\Users\Sensei98\Documents\InHolland\YEAR 1\1920_1.4\DESIGN PATTERNS\ChapeauProject\ChapeauProject\GR07_ChapeauSolution\ChapeauUI\ChapeauUI\obj\Debug\ChapeauUI.Payments.resources
+C:\Users\Sensei98\Documents\InHolland\YEAR 1\1920_1.4\DESIGN PATTERNS\ChapeauProject\ChapeauProject\GR07_ChapeauSolution\ChapeauUI\ChapeauUI\obj\Debug\ChapeauUI.StockForm.resources
+C:\Users\Sensei98\Documents\InHolland\YEAR 1\1920_1.4\DESIGN PATTERNS\ChapeauProject\ChapeauProject\GR07_ChapeauSolution\ChapeauUI\ChapeauUI\obj\Debug\ChapeauUI.TableStates.resources
+C:\Users\Sensei98\Documents\InHolland\YEAR 1\1920_1.4\DESIGN PATTERNS\ChapeauProject\ChapeauProject\GR07_ChapeauSolution\ChapeauUI\ChapeauUI\obj\Debug\ChapeauUI.Properties.Resources.resources
+C:\Users\Sensei98\Documents\InHolland\YEAR 1\1920_1.4\DESIGN PATTERNS\ChapeauProject\ChapeauProject\GR07_ChapeauSolution\ChapeauUI\ChapeauUI\obj\Debug\ChapeauUI.TakeOrder.resources
+C:\Users\Sensei98\Documents\InHolland\YEAR 1\1920_1.4\DESIGN PATTERNS\ChapeauProject\ChapeauProject\GR07_ChapeauSolution\ChapeauUI\ChapeauUI\obj\Debug\ChapeauUI.OrderView.resources
+C:\Users\Sensei98\Documents\InHolland\YEAR 1\1920_1.4\DESIGN PATTERNS\ChapeauProject\ChapeauProject\GR07_ChapeauSolution\ChapeauUI\ChapeauUI\obj\Debug\ChapeauUI.csproj.GenerateResource.cache
+C:\Users\Sensei98\Documents\InHolland\YEAR 1\1920_1.4\DESIGN PATTERNS\ChapeauProject\ChapeauProject\GR07_ChapeauSolution\ChapeauUI\ChapeauUI\obj\Debug\ChapeauUI.csproj.CoreCompileInputs.cache
+C:\Users\Sensei98\Documents\InHolland\YEAR 1\1920_1.4\DESIGN PATTERNS\ChapeauProject\ChapeauProject\GR07_ChapeauSolution\ChapeauUI\ChapeauUI\obj\Debug\ChapeauUI.csproj.CopyComplete
+C:\Users\Sensei98\Documents\InHolland\YEAR 1\1920_1.4\DESIGN PATTERNS\ChapeauProject\ChapeauProject\GR07_ChapeauSolution\ChapeauUI\ChapeauUI\obj\Debug\ChapeauUI.exe
+C:\Users\Sensei98\Documents\InHolland\YEAR 1\1920_1.4\DESIGN PATTERNS\ChapeauProject\ChapeauProject\GR07_ChapeauSolution\ChapeauUI\ChapeauUI\obj\Debug\ChapeauUI.pdb

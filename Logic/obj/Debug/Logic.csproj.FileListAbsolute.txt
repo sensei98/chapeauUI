@@ -1,0 +1,132 @@
+D:\nerdy data\TERM 4\PROJECT CHAPEAU\PROJECT CHAPEAU\Logic\bin\Debug\Logic.dll
+D:\nerdy data\TERM 4\PROJECT CHAPEAU\PROJECT CHAPEAU\Logic\bin\Debug\Logic.pdb
+D:\nerdy data\TERM 4\PROJECT CHAPEAU\PROJECT CHAPEAU\Logic\bin\Debug\DAL.dll
+D:\nerdy data\TERM 4\PROJECT CHAPEAU\PROJECT CHAPEAU\Logic\bin\Debug\MODEL.dll
+D:\nerdy data\TERM 4\PROJECT CHAPEAU\PROJECT CHAPEAU\Logic\bin\Debug\DAL.pdb
+D:\nerdy data\TERM 4\PROJECT CHAPEAU\PROJECT CHAPEAU\Logic\bin\Debug\MODEL.pdb
+D:\nerdy data\TERM 4\PROJECT CHAPEAU\PROJECT CHAPEAU\Logic\obj\Debug\Logic.csprojAssemblyReference.cache
+D:\nerdy data\TERM 4\PROJECT CHAPEAU\PROJECT CHAPEAU\Logic\obj\Debug\Logic.csproj.CoreCompileInputs.cache
+D:\nerdy data\TERM 4\PROJECT CHAPEAU\PROJECT CHAPEAU\Logic\obj\Debug\Logic.csproj.CopyComplete
+D:\nerdy data\TERM 4\PROJECT CHAPEAU\PROJECT CHAPEAU\Logic\obj\Debug\Logic.dll
+D:\nerdy data\TERM 4\PROJECT CHAPEAU\PROJECT CHAPEAU\Logic\obj\Debug\Logic.pdb
+D:\nerdy data\TERM 4\CHAPEAU GROUP 7\ChapeauUI\Logic\bin\Debug\Logic.dll
+D:\nerdy data\TERM 4\CHAPEAU GROUP 7\ChapeauUI\Logic\bin\Debug\Logic.pdb
+D:\nerdy data\TERM 4\CHAPEAU GROUP 7\ChapeauUI\Logic\bin\Debug\DAL.dll
+D:\nerdy data\TERM 4\CHAPEAU GROUP 7\ChapeauUI\Logic\bin\Debug\MODEL.dll
+D:\nerdy data\TERM 4\CHAPEAU GROUP 7\ChapeauUI\Logic\bin\Debug\DAL.pdb
+D:\nerdy data\TERM 4\CHAPEAU GROUP 7\ChapeauUI\Logic\bin\Debug\MODEL.pdb
+D:\nerdy data\TERM 4\CHAPEAU GROUP 7\ChapeauUI\Logic\obj\Debug\Logic.csprojAssemblyReference.cache
+D:\nerdy data\TERM 4\CHAPEAU GROUP 7\ChapeauUI\Logic\obj\Debug\Logic.csproj.CoreCompileInputs.cache
+D:\nerdy data\TERM 4\CHAPEAU GROUP 7\ChapeauUI\Logic\obj\Debug\Logic.csproj.CopyComplete
+D:\nerdy data\TERM 4\CHAPEAU GROUP 7\ChapeauUI\Logic\obj\Debug\Logic.dll
+D:\nerdy data\TERM 4\CHAPEAU GROUP 7\ChapeauUI\Logic\obj\Debug\Logic.pdb
+C:\Users\Sensei98\Documents\InHolland\1920_1.4\DESIGN PATTERNS\ChapeauProject\ChapeauUI\ChapeauUI\Logic\bin\Debug\Logic.dll
+C:\Users\Sensei98\Documents\InHolland\1920_1.4\DESIGN PATTERNS\ChapeauProject\ChapeauUI\ChapeauUI\Logic\bin\Debug\Logic.pdb
+C:\Users\Sensei98\Documents\InHolland\1920_1.4\DESIGN PATTERNS\ChapeauProject\ChapeauUI\ChapeauUI\Logic\bin\Debug\DAL.dll
+C:\Users\Sensei98\Documents\InHolland\1920_1.4\DESIGN PATTERNS\ChapeauProject\ChapeauUI\ChapeauUI\Logic\bin\Debug\MODEL.dll
+C:\Users\Sensei98\Documents\InHolland\1920_1.4\DESIGN PATTERNS\ChapeauProject\ChapeauUI\ChapeauUI\Logic\bin\Debug\DAL.pdb
+C:\Users\Sensei98\Documents\InHolland\1920_1.4\DESIGN PATTERNS\ChapeauProject\ChapeauUI\ChapeauUI\Logic\bin\Debug\MODEL.pdb
+C:\Users\Sensei98\Documents\InHolland\1920_1.4\DESIGN PATTERNS\ChapeauProject\ChapeauUI\ChapeauUI\Logic\obj\Debug\Logic.csprojAssemblyReference.cache
+C:\Users\Sensei98\Documents\InHolland\1920_1.4\DESIGN PATTERNS\ChapeauProject\ChapeauUI\ChapeauUI\Logic\obj\Debug\Logic.csproj.CoreCompileInputs.cache
+C:\Users\Sensei98\Documents\InHolland\1920_1.4\DESIGN PATTERNS\ChapeauProject\ChapeauUI\ChapeauUI\Logic\obj\Debug\Logic.csproj.CopyComplete
+C:\Users\Sensei98\Documents\InHolland\1920_1.4\DESIGN PATTERNS\ChapeauProject\ChapeauUI\ChapeauUI\Logic\obj\Debug\Logic.dll
+C:\Users\Sensei98\Documents\InHolland\1920_1.4\DESIGN PATTERNS\ChapeauProject\ChapeauUI\ChapeauUI\Logic\obj\Debug\Logic.pdb
+C:\Users\Gebruiker\Desktop\ChapeauUI\Logic\bin\Debug\Logic.dll
+C:\Users\Gebruiker\Desktop\ChapeauUI\Logic\bin\Debug\Logic.pdb
+C:\Users\Gebruiker\Desktop\ChapeauUI\Logic\bin\Debug\DAL.dll
+C:\Users\Gebruiker\Desktop\ChapeauUI\Logic\bin\Debug\MODEL.dll
+C:\Users\Gebruiker\Desktop\ChapeauUI\Logic\bin\Debug\DAL.pdb
+C:\Users\Gebruiker\Desktop\ChapeauUI\Logic\bin\Debug\MODEL.pdb
+C:\Users\Gebruiker\Desktop\ChapeauUI\Logic\obj\Debug\Logic.csprojAssemblyReference.cache
+C:\Users\Gebruiker\Desktop\ChapeauUI\Logic\obj\Debug\Logic.csproj.CoreCompileInputs.cache
+C:\Users\Gebruiker\Desktop\ChapeauUI\Logic\obj\Debug\Logic.csproj.CopyComplete
+C:\Users\Gebruiker\Desktop\ChapeauUI\Logic\obj\Debug\Logic.dll
+C:\Users\Gebruiker\Desktop\ChapeauUI\Logic\obj\Debug\Logic.pdb
+C:\Users\Sensei98\Downloads\ChapeauUI (1)\ChapeauUI\Logic\obj\Debug\Logic.csprojAssemblyReference.cache
+C:\Users\Sensei98\Downloads\ChapeauUI (1)\ChapeauUI\Logic\obj\Debug\Logic.csproj.CoreCompileInputs.cache
+C:\Users\Sensei98\Downloads\ChapeauUI (1)\ChapeauUI\Logic\obj\Debug\Logic.dll
+C:\Users\Sensei98\Downloads\ChapeauUI (1)\ChapeauUI\Logic\obj\Debug\Logic.pdb
+C:\Users\Sensei98\Downloads\ChapeauUI (1)\ChapeauUI\Logic\bin\Debug\Logic.dll
+C:\Users\Sensei98\Downloads\ChapeauUI (1)\ChapeauUI\Logic\bin\Debug\Logic.pdb
+C:\Users\Sensei98\Downloads\ChapeauUI (1)\ChapeauUI\Logic\bin\Debug\DAL.dll
+C:\Users\Sensei98\Downloads\ChapeauUI (1)\ChapeauUI\Logic\bin\Debug\MODEL.dll
+C:\Users\Sensei98\Downloads\ChapeauUI (1)\ChapeauUI\Logic\bin\Debug\DAL.pdb
+C:\Users\Sensei98\Downloads\ChapeauUI (1)\ChapeauUI\Logic\bin\Debug\MODEL.pdb
+C:\Users\Sensei98\Downloads\ChapeauUI (1)\ChapeauUI\Logic\obj\Debug\Logic.csproj.CopyComplete
+C:\Users\Sensei98\Downloads\newTing(2)\ChapeauUI\Logic\bin\Debug\Logic.dll
+C:\Users\Sensei98\Downloads\newTing(2)\ChapeauUI\Logic\bin\Debug\Logic.pdb
+C:\Users\Sensei98\Downloads\newTing(2)\ChapeauUI\Logic\bin\Debug\DAL.dll
+C:\Users\Sensei98\Downloads\newTing(2)\ChapeauUI\Logic\bin\Debug\MODEL.dll
+C:\Users\Sensei98\Downloads\newTing(2)\ChapeauUI\Logic\bin\Debug\DAL.pdb
+C:\Users\Sensei98\Downloads\newTing(2)\ChapeauUI\Logic\bin\Debug\MODEL.pdb
+C:\Users\Sensei98\Downloads\newTing(2)\ChapeauUI\Logic\obj\Debug\Logic.csprojAssemblyReference.cache
+C:\Users\Sensei98\Downloads\newTing(2)\ChapeauUI\Logic\obj\Debug\Logic.csproj.CoreCompileInputs.cache
+C:\Users\Sensei98\Downloads\newTing(2)\ChapeauUI\Logic\obj\Debug\Logic.csproj.CopyComplete
+C:\Users\Sensei98\Downloads\newTing(2)\ChapeauUI\Logic\obj\Debug\Logic.dll
+C:\Users\Sensei98\Downloads\newTing(2)\ChapeauUI\Logic\obj\Debug\Logic.pdb
+C:\Users\Gebruiker\Desktop\fuck it\ChapeauUi.New\ChapeauUI\Logic\bin\Debug\Logic.dll
+C:\Users\Gebruiker\Desktop\fuck it\ChapeauUi.New\ChapeauUI\Logic\bin\Debug\Logic.pdb
+C:\Users\Gebruiker\Desktop\fuck it\ChapeauUi.New\ChapeauUI\Logic\bin\Debug\DAL.dll
+C:\Users\Gebruiker\Desktop\fuck it\ChapeauUi.New\ChapeauUI\Logic\bin\Debug\MODEL.dll
+C:\Users\Gebruiker\Desktop\fuck it\ChapeauUi.New\ChapeauUI\Logic\bin\Debug\DAL.pdb
+C:\Users\Gebruiker\Desktop\fuck it\ChapeauUi.New\ChapeauUI\Logic\bin\Debug\MODEL.pdb
+C:\Users\Gebruiker\Desktop\fuck it\ChapeauUi.New\ChapeauUI\Logic\obj\Debug\Logic.csprojAssemblyReference.cache
+C:\Users\Gebruiker\Desktop\fuck it\ChapeauUi.New\ChapeauUI\Logic\obj\Debug\Logic.csproj.CoreCompileInputs.cache
+C:\Users\Gebruiker\Desktop\fuck it\ChapeauUi.New\ChapeauUI\Logic\obj\Debug\Logic.csproj.CopyComplete
+C:\Users\Gebruiker\Desktop\fuck it\ChapeauUi.New\ChapeauUI\Logic\obj\Debug\Logic.dll
+C:\Users\Gebruiker\Desktop\fuck it\ChapeauUi.New\ChapeauUI\Logic\obj\Debug\Logic.pdb
+C:\Users\Gebruiker\Desktop\fuck it\ChapeauUI\Logic\bin\Debug\Logic.dll
+C:\Users\Gebruiker\Desktop\fuck it\ChapeauUI\Logic\bin\Debug\Logic.pdb
+C:\Users\Gebruiker\Desktop\fuck it\ChapeauUI\Logic\bin\Debug\DAL.dll
+C:\Users\Gebruiker\Desktop\fuck it\ChapeauUI\Logic\bin\Debug\MODEL.dll
+C:\Users\Gebruiker\Desktop\fuck it\ChapeauUI\Logic\bin\Debug\DAL.pdb
+C:\Users\Gebruiker\Desktop\fuck it\ChapeauUI\Logic\bin\Debug\MODEL.pdb
+C:\Users\Gebruiker\Desktop\fuck it\ChapeauUI\Logic\obj\Debug\Logic.csprojAssemblyReference.cache
+C:\Users\Gebruiker\Desktop\fuck it\ChapeauUI\Logic\obj\Debug\Logic.csproj.CoreCompileInputs.cache
+C:\Users\Gebruiker\Desktop\fuck it\ChapeauUI\Logic\obj\Debug\Logic.csproj.CopyComplete
+C:\Users\Gebruiker\Desktop\fuck it\ChapeauUI\Logic\obj\Debug\Logic.dll
+C:\Users\Gebruiker\Desktop\fuck it\ChapeauUI\Logic\obj\Debug\Logic.pdb
+C:\Users\wslo0\Downloads\Chapeau new solution\ChapeauUI\Logic\bin\Debug\Logic.dll
+C:\Users\wslo0\Downloads\Chapeau new solution\ChapeauUI\Logic\bin\Debug\Logic.pdb
+C:\Users\wslo0\Downloads\Chapeau new solution\ChapeauUI\Logic\bin\Debug\DAL.dll
+C:\Users\wslo0\Downloads\Chapeau new solution\ChapeauUI\Logic\bin\Debug\MODEL.dll
+C:\Users\wslo0\Downloads\Chapeau new solution\ChapeauUI\Logic\bin\Debug\DAL.pdb
+C:\Users\wslo0\Downloads\Chapeau new solution\ChapeauUI\Logic\bin\Debug\MODEL.pdb
+C:\Users\wslo0\Downloads\Chapeau new solution\ChapeauUI\Logic\obj\Debug\Logic.csprojAssemblyReference.cache
+C:\Users\wslo0\Downloads\Chapeau new solution\ChapeauUI\Logic\obj\Debug\Logic.csproj.CoreCompileInputs.cache
+C:\Users\wslo0\Downloads\Chapeau new solution\ChapeauUI\Logic\obj\Debug\Logic.csproj.CopyComplete
+C:\Users\wslo0\Downloads\Chapeau new solution\ChapeauUI\Logic\obj\Debug\Logic.dll
+C:\Users\wslo0\Downloads\Chapeau new solution\ChapeauUI\Logic\obj\Debug\Logic.pdb
+C:\Users\Sensei98\Downloads\GR07_ChapeauSolution\ChapeauUI\Logic\bin\Debug\Logic.dll
+C:\Users\Sensei98\Downloads\GR07_ChapeauSolution\ChapeauUI\Logic\bin\Debug\Logic.pdb
+C:\Users\Sensei98\Downloads\GR07_ChapeauSolution\ChapeauUI\Logic\bin\Debug\DAL.dll
+C:\Users\Sensei98\Downloads\GR07_ChapeauSolution\ChapeauUI\Logic\bin\Debug\MODEL.dll
+C:\Users\Sensei98\Downloads\GR07_ChapeauSolution\ChapeauUI\Logic\bin\Debug\DAL.pdb
+C:\Users\Sensei98\Downloads\GR07_ChapeauSolution\ChapeauUI\Logic\bin\Debug\MODEL.pdb
+C:\Users\Sensei98\Downloads\GR07_ChapeauSolution\ChapeauUI\Logic\obj\Debug\Logic.csprojAssemblyReference.cache
+C:\Users\Sensei98\Downloads\GR07_ChapeauSolution\ChapeauUI\Logic\obj\Debug\Logic.csproj.CoreCompileInputs.cache
+C:\Users\Sensei98\Downloads\GR07_ChapeauSolution\ChapeauUI\Logic\obj\Debug\Logic.csproj.CopyComplete
+C:\Users\Sensei98\Downloads\GR07_ChapeauSolution\ChapeauUI\Logic\obj\Debug\Logic.dll
+C:\Users\Sensei98\Downloads\GR07_ChapeauSolution\ChapeauUI\Logic\obj\Debug\Logic.pdb
+C:\Users\Sensei98\Documents\InHolland\1920_1.4\DESIGN PATTERNS\ChapeauProject\GR07_ChapeauSolution\ChapeauUI\Logic\bin\Debug\Logic.dll
+C:\Users\Sensei98\Documents\InHolland\1920_1.4\DESIGN PATTERNS\ChapeauProject\GR07_ChapeauSolution\ChapeauUI\Logic\bin\Debug\Logic.pdb
+C:\Users\Sensei98\Documents\InHolland\1920_1.4\DESIGN PATTERNS\ChapeauProject\GR07_ChapeauSolution\ChapeauUI\Logic\bin\Debug\DAL.dll
+C:\Users\Sensei98\Documents\InHolland\1920_1.4\DESIGN PATTERNS\ChapeauProject\GR07_ChapeauSolution\ChapeauUI\Logic\bin\Debug\MODEL.dll
+C:\Users\Sensei98\Documents\InHolland\1920_1.4\DESIGN PATTERNS\ChapeauProject\GR07_ChapeauSolution\ChapeauUI\Logic\bin\Debug\DAL.pdb
+C:\Users\Sensei98\Documents\InHolland\1920_1.4\DESIGN PATTERNS\ChapeauProject\GR07_ChapeauSolution\ChapeauUI\Logic\bin\Debug\MODEL.pdb
+C:\Users\Sensei98\Documents\InHolland\1920_1.4\DESIGN PATTERNS\ChapeauProject\GR07_ChapeauSolution\ChapeauUI\Logic\obj\Debug\Logic.csprojAssemblyReference.cache
+C:\Users\Sensei98\Documents\InHolland\1920_1.4\DESIGN PATTERNS\ChapeauProject\GR07_ChapeauSolution\ChapeauUI\Logic\obj\Debug\Logic.csproj.CoreCompileInputs.cache
+C:\Users\Sensei98\Documents\InHolland\1920_1.4\DESIGN PATTERNS\ChapeauProject\GR07_ChapeauSolution\ChapeauUI\Logic\obj\Debug\Logic.csproj.CopyComplete
+C:\Users\Sensei98\Documents\InHolland\1920_1.4\DESIGN PATTERNS\ChapeauProject\GR07_ChapeauSolution\ChapeauUI\Logic\obj\Debug\Logic.dll
+C:\Users\Sensei98\Documents\InHolland\1920_1.4\DESIGN PATTERNS\ChapeauProject\GR07_ChapeauSolution\ChapeauUI\Logic\obj\Debug\Logic.pdb
+C:\Users\Sensei98\Documents\InHolland\YEAR 1\1920_1.4\DESIGN PATTERNS\ChapeauProject\ChapeauProject\GR07_ChapeauSolution\ChapeauUI\Logic\bin\Debug\Logic.dll
+C:\Users\Sensei98\Documents\InHolland\YEAR 1\1920_1.4\DESIGN PATTERNS\ChapeauProject\ChapeauProject\GR07_ChapeauSolution\ChapeauUI\Logic\bin\Debug\Logic.pdb
+C:\Users\Sensei98\Documents\InHolland\YEAR 1\1920_1.4\DESIGN PATTERNS\ChapeauProject\ChapeauProject\GR07_ChapeauSolution\ChapeauUI\Logic\bin\Debug\DAL.dll
+C:\Users\Sensei98\Documents\InHolland\YEAR 1\1920_1.4\DESIGN PATTERNS\ChapeauProject\ChapeauProject\GR07_ChapeauSolution\ChapeauUI\Logic\bin\Debug\MODEL.dll
+C:\Users\Sensei98\Documents\InHolland\YEAR 1\1920_1.4\DESIGN PATTERNS\ChapeauProject\ChapeauProject\GR07_ChapeauSolution\ChapeauUI\Logic\bin\Debug\DAL.pdb
+C:\Users\Sensei98\Documents\InHolland\YEAR 1\1920_1.4\DESIGN PATTERNS\ChapeauProject\ChapeauProject\GR07_ChapeauSolution\ChapeauUI\Logic\bin\Debug\MODEL.pdb
+C:\Users\Sensei98\Documents\InHolland\YEAR 1\1920_1.4\DESIGN PATTERNS\ChapeauProject\ChapeauProject\GR07_ChapeauSolution\ChapeauUI\Logic\obj\Debug\Logic.csprojAssemblyReference.cache
+C:\Users\Sensei98\Documents\InHolland\YEAR 1\1920_1.4\DESIGN PATTERNS\ChapeauProject\ChapeauProject\GR07_ChapeauSolution\ChapeauUI\Logic\obj\Debug\Logic.csproj.CoreCompileInputs.cache
+C:\Users\Sensei98\Documents\InHolland\YEAR 1\1920_1.4\DESIGN PATTERNS\ChapeauProject\ChapeauProject\GR07_ChapeauSolution\ChapeauUI\Logic\obj\Debug\Logic.csproj.CopyComplete
+C:\Users\Sensei98\Documents\InHolland\YEAR 1\1920_1.4\DESIGN PATTERNS\ChapeauProject\ChapeauProject\GR07_ChapeauSolution\ChapeauUI\Logic\obj\Debug\Logic.dll
+C:\Users\Sensei98\Documents\InHolland\YEAR 1\1920_1.4\DESIGN PATTERNS\ChapeauProject\ChapeauProject\GR07_ChapeauSolution\ChapeauUI\Logic\obj\Debug\Logic.pdb
